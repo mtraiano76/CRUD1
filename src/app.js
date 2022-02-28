@@ -1,5 +1,5 @@
 // ************ Require's ************
-const createError = require('http-errors');
+const createError = require('http-error');
 const cookieParser = require('cookie-parser');
 const express = require('express');
 const logger = require('morgan');
